@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactdeploy/static/css/main.2cce8147.chunk.css",
-    "main.js": "/reactdeploy/static/js/main.91c039e0.chunk.js",
-    "main.js.map": "/reactdeploy/static/js/main.91c039e0.chunk.js.map",
-    "runtime~main.js": "/reactdeploy/static/js/runtime~main.14726b63.js",
-    "runtime~main.js.map": "/reactdeploy/static/js/runtime~main.14726b63.js.map",
-    "static/js/2.dd197de5.chunk.js": "/reactdeploy/static/js/2.dd197de5.chunk.js",
-    "static/js/2.dd197de5.chunk.js.map": "/reactdeploy/static/js/2.dd197de5.chunk.js.map",
-    "index.html": "/reactdeploy/index.html",
-    "precache-manifest.efe6ca9fab084a3f8f917bf2792bf9b5.js": "/reactdeploy/precache-manifest.efe6ca9fab084a3f8f917bf2792bf9b5.js",
-    "service-worker.js": "/reactdeploy/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/reactdeploy/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/karthikkumar19/reactdeploy.git/static/css/main.2cce8147.chunk.css",
+    "main.js": "/karthikkumar19/reactdeploy.git/static/js/main.f8da492f.chunk.js",
+    "main.js.map": "/karthikkumar19/reactdeploy.git/static/js/main.f8da492f.chunk.js.map",
+    "runtime~main.js": "/karthikkumar19/reactdeploy.git/static/js/runtime~main.c9b3cb9f.js",
+    "runtime~main.js.map": "/karthikkumar19/reactdeploy.git/static/js/runtime~main.c9b3cb9f.js.map",
+    "static/js/2.dd197de5.chunk.js": "/karthikkumar19/reactdeploy.git/static/js/2.dd197de5.chunk.js",
+    "static/js/2.dd197de5.chunk.js.map": "/karthikkumar19/reactdeploy.git/static/js/2.dd197de5.chunk.js.map",
+    "index.html": "/karthikkumar19/reactdeploy.git/index.html",
+    "precache-manifest.1ce9f9f2d0aa0bfa489ca4c57e86e713.js": "/karthikkumar19/reactdeploy.git/precache-manifest.1ce9f9f2d0aa0bfa489ca4c57e86e713.js",
+    "service-worker.js": "/karthikkumar19/reactdeploy.git/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/karthikkumar19/reactdeploy.git/static/css/main.2cce8147.chunk.css.map"
   }
 }
