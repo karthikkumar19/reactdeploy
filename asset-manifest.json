@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactdeploy/static/css/main.2cce8147.chunk.css",
-    "main.js": "/reactdeploy/static/js/main.b027de83.chunk.js",
-    "main.js.map": "/reactdeploy/static/js/main.b027de83.chunk.js.map",
+    "main.js": "/reactdeploy/static/js/main.b0c35c35.chunk.js",
+    "main.js.map": "/reactdeploy/static/js/main.b0c35c35.chunk.js.map",
     "runtime~main.js": "/reactdeploy/static/js/runtime~main.14726b63.js",
     "runtime~main.js.map": "/reactdeploy/static/js/runtime~main.14726b63.js.map",
     "static/js/2.dd197de5.chunk.js": "/reactdeploy/static/js/2.dd197de5.chunk.js",
     "static/js/2.dd197de5.chunk.js.map": "/reactdeploy/static/js/2.dd197de5.chunk.js.map",
     "index.html": "/reactdeploy/index.html",
-    "precache-manifest.328f7a1cf14ce0402673d7f4f4d78574.js": "/reactdeploy/precache-manifest.328f7a1cf14ce0402673d7f4f4d78574.js",
+    "precache-manifest.17ee01cc4337f3fc8dbd97016e10a3da.js": "/reactdeploy/precache-manifest.17ee01cc4337f3fc8dbd97016e10a3da.js",
     "service-worker.js": "/reactdeploy/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/reactdeploy/static/css/main.2cce8147.chunk.css.map"
   }
